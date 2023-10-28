@@ -21,6 +21,6 @@
 - [Website Portfolio](https://leoharada.com/) - personal portfolio from scratch.
 - [Bern](https://bern-app.onrender.com/) - website connecting fitness enthusiasts with instructors.
 - [CoderHeaven](https://coder-heaven.vercel.app/) - ecommerce website for web developers.
-- [UandI](https://uandi.onrender.com/) - social app for web developers.
+- [UandI](https://uandi.onrender.com/) - social website for web developers.
 - [SafeBay](https://safebayproject.web.app/) - seed recovery for digital wallets.
 
