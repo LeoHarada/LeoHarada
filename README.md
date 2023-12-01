@@ -24,5 +24,4 @@
 - [CoderHeaven](https://coder-heaven.vercel.app/) - ecommerce website for web developers.
 - [UandI](https://uandi.onrender.com/) - social website for web developers.
 - [Bern](https://bern-app.onrender.com/) - website connecting fitness enthusiasts with instructors.
-- [SafeBay](https://safebayproject.web.app/) - seed recovery for digital wallets.
 
