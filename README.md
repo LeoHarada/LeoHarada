@@ -18,10 +18,7 @@
 
 
 ## Projects 🚀
-- [Website Portfolio](https://leoharada.com/){:target="_blank"}   - personal portfolio from scratch.
-  <a href="https://www.geeksforgeeks.org/" 
-           target="_blank">here 
-        </a>
+- [Website Portfolio](https://leoharada.com/) - personal portfolio from scratch.
 - [Rocco808](https://rocco-808.com/) - **Current Project** - artist page for rap artist Rocco808.
 - [CoderHeaven](https://coder-heaven.vercel.app/) - ecommerce website for web developers.
 - [UandI](https://uandi.onrender.com/) - social website for web developers.
