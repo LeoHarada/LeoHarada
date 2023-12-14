@@ -18,7 +18,7 @@
 
 
 ## Projects 🚀
-- [Website Portfolio](https://leoharada.com/) - personal portfolio from scratch.
+- [Website Portfolio](https://leoharada.com/) - personal portfolio showcasing all my projects and freelance work.
 - [The Living Letters](https://thelivinglettersart.com/) - **Freelance** - single product ecommerce page for upcoming artist Dulcie Yamanaka.
 - [Rocco808](https://rocco-808.com/) - **Freelance** - artist page for upcoming rapper Rocco808.
 - [CoderHeaven](https://coder-heaven.vercel.app/) - ecommerce website for web developers.
