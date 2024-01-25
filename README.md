@@ -9,14 +9,13 @@ As a fullstack software engineer, I've channeled my passion for creativity into 
       <img alt="Website" src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Website&logoColor=white">
     </a>
 <br><br/>  
-<p align="center>
     <a href="https://www.linkedin.com/in/leoharada/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white">
     </a>
     <a href="mailto:leotharada@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-</p>
+
 
 
 ## Languages and Tools 🛠️
