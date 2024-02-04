@@ -41,7 +41,6 @@ As a fullstack software engineer, I've channeled my passion for creativity into 
 <h3 align="center">Sharpening my skills on</h3>
 <p align="center">
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white">
-      <img alt="Railway" src="https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=Railway&logoColor=white">
       <img alt="Next.JS" src="https://img.shields.io/badge/Next.JS-green?style=for-the-badge&logo=Next.JS&logoColor=white">
       <img alt="Prisma" src="https://img.shields.io/badge/Prisma-lightblue?style=for-the-badge&logo=Prisma&logoColor=white">  
 </p>
