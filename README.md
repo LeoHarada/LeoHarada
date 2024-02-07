@@ -63,6 +63,13 @@ As a fullstack software engineer, I've channeled my passion for creativity into 
 
 ## Side Projects 🚀
 <ul align="left">
+        </li>
+      <li>
+    <a href="https://leos-blo.vercel.app/">
+      Leo's Blog
+    </a>
+    - a personal blog to keep track of my coding journey.
+  </li>
   <li>
     <a href="https://coder-heaven.vercel.app/">
       Coder Heaven
