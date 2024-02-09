@@ -33,7 +33,7 @@ As a fullstack software engineer, I've channeled my passion for creativity into 
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-green?style=for-the-badge&logo=TailwindCSS&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-pink?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-lightblue?style=for-the-badge&logo=Stripe&logoColor=white">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=Postman&logoColor=white">
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-darkblue?style=for-the-badge&logo=Postman&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=Git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white">
   </p>
