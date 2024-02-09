@@ -24,13 +24,13 @@ As a fullstack software engineer, I've channeled my passion for creativity into 
   <img alt="React" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/ReactRouter-pink?style=for-the-badge&logo=ReactRouter&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=Redux&logoColor=white" />
-  <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-green?style=for-the-badge&logo=Node.JS&logoColor=white">
+  <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-gray?style=for-the-badge&logo=Node.JS&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express-yellow?style=for-the-badge&logo=Express&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-lightblue?style=for-the-badge&logo=CSS3&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-darkblue?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-purple?style=for-the-badge&logo=webpack&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-green?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-gray?style=for-the-badge&logo=TailwindCSS&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-pink?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="Stripe" src="https://img.shields.io/badge/Stripe-lightblue?style=for-the-badge&logo=Stripe&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-darkblue?style=for-the-badge&logo=Postman&logoColor=white">
